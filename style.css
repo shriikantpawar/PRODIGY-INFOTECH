@@ -1,0 +1,44 @@
+body {
+       font-family: sans-serif;
+   }
+   
+   .container {
+       width: 500px;
+       margin: 0 auto;
+       text-align: center;
+   }
+   
+   .stopwatch {
+       border: 1px solid #ccc;
+       padding: 20px;
+   }
+   
+   .timer {
+       font-size: 36px;
+       font-weight: bold;
+   }
+   
+   .buttons {
+       margin-top: 20px;
+   }
+   
+   button {
+       padding: 10px 20px;
+       border: 1px solid #ccc;
+       cursor: pointer;
+   }
+   
+   .laps {
+       margin-top: 20px;
+   }
+   
+   #lap-list {
+       list-style: none;
+       padding: 0;
+       margin: 0;
+   }
+   
+   #lap-list li {
+       margin-bottom: 10px;
+   }
+   
