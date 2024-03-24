@@ -1,0 +1,27 @@
+/* Style for the main container */
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+#locationInput {
+    margin-top: 20px;
+}
+
+/* Style for the weather information */
+#weatherInfo {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+h2 {
+    color: #333;
+}
